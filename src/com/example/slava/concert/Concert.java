@@ -23,5 +23,4 @@ public class Concert {
             System.out.printf(PERFORM, artist.getName(), artist.getSkill().skillToString());
         }
     }
-
 }
